@@ -1,0 +1,8 @@
+.main-text {
+  --body-text: blue;
+  font-family: Arial, Courier, monospace;
+  color: var(--body-text), red;
+  background-color: var(--body-text);
+}
+
+
