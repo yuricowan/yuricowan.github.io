@@ -1,8 +1,17 @@
-.main-text {
+
+:root {
+
   --body-text: blue;
-  font-family: Arial, Courier, monospace;
-  color: var(--body-text), red;
-  background-color: var(--body-text);
+
 }
 
 
+.main-text {
+  font-family: Arial, Courier, monospace;
+  color: blue --body-text;
+}
+
+.body-content {
+  color: var(--body-text);
+  font-family: monospace;
+}
