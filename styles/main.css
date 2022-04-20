@@ -73,3 +73,19 @@ li a:hover {
   background-color: #111;
   color: white;
 }
+
+/*Articles*/
+
+.blog {
+  margin: 5%;
+}
+
+.blog-example {
+  width: 80%;
+  height: 100%;
+}
+
+article {
+  border: #36454f solid;
+  margin: 0% 2% 0% 2%;
+}
