@@ -16,21 +16,22 @@ h1 {
   max-height: 50%;
  }
 
- .gallery-size {
-
-    height: 25%;
-    width: 25%;
-
- }
-
  a{
   color: black;
   text-decoration: none;
  }
 
- 
+ /*Gallery*/
 
-/* Navigation bar */
+ .gallery-size {
+    height: 35%;
+    width: 35%;
+ }
+
+
+
+
+/*Navigation bar*/
 
 ul {
   list-style-type: none;
