@@ -12,6 +12,10 @@ div {
   margin-top: 5%;
 }
 
+body {
+  background-color: #fffaf0;
+}
+
 /*index photos*/
 
 .main-photos {
