@@ -8,6 +8,10 @@ div {
   margin-right: auto;
 }
 
+list {
+  background-color: transparent !important;
+}
+
 .content {
   margin-top: 5%;
 }
@@ -91,7 +95,6 @@ li a:hover {
 }
 
 article {
-  border: #36454f solid;
   margin: 0% 2% 0% 2%;
 }
 
