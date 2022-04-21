@@ -77,15 +77,58 @@ li a:hover {
 /*Articles*/
 
 .blog {
-  margin: 5%;
+  margin: 2% 5%;
 }
 
 .blog-example {
   width: 80%;
   height: 100%;
+  padding: 1% !important;
 }
 
 article {
   border: #36454f solid;
   margin: 0% 2% 0% 2%;
+}
+
+.box-example1 {
+  width: 3%;
+  height: 3%;
+  border: dotted 3px black;
+  padding: 3%;
+}
+
+.box-example2 {
+  width: 3%;
+  height: 3%;
+  border: solid 3px teal;
+  padding: 3%;
+}
+
+.box-example3 {
+  width: 3%;
+  height: 3%;
+  border: double 3px orange;
+  padding: 3%;
+}
+
+.box-example4 {
+  width: 3%;
+  height: 3%;
+  border: dashed 3px chocolate;
+  padding: 3%;
+}
+
+.box-example5 {
+  width: 3%;
+  height: 3%;
+  border: ridge 3px teal;
+  padding: 3%;
+}
+
+.box-example6 {
+  width: 3%;
+  height: 3%;
+  border: outset 3px navy;
+  padding: 3%;
 }
